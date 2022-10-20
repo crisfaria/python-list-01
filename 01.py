@@ -1,5 +1,5 @@
 # Disciplina: Probabilidade e Estatística
-# Aluno: Cristina Andrade de Faria - MAT: 2224290068
+# Aluno: Cristina Andrade de Faria
 # Lista 3
 
 
